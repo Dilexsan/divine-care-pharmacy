@@ -9,7 +9,7 @@ interface Medicine {
   name: string;
   weight: string;
   expiryDate: string;
-  price: number;
+  price: string;
 }
 
 const STATUS_STYLES: Record<
