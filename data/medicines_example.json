@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Osartil", "weight": "25mg", "expiryDate": "2027-12", "price": 80 },
+  { "id": 2, "name": "Osartil", "weight": "50mg", "expiryDate": "2027-07", "price": 90 },
+  { "id": 3, "name": "Lumid", "weight": "40mg", "expiryDate": "2028-02", "price": 50 },
+  { "id": 4, "name": "Zaart", "weight": "50mg", "expiryDate": "2028-09", "price": 200 },
+  { "id": 5, "name": "Zaart", "weight": "25mg", "expiryDate": "2028-07", "price": 120 },
+  { "id": 6, "name": "Envas", "weight": "5mg", "expiryDate": "2029-02", "price": 50 }
+]
