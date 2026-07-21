@@ -9,3 +9,4 @@ public/workbox-*.js.map
 .vercel
 next-env.d.ts
 venv
+.vercel
